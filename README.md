@@ -25,6 +25,7 @@ The goal is to collect all the items ('I') scattered throughout the level while 
 
 ## Requirements
 Python 3.13.1
+
 Pygame
 
 ## Notes
@@ -32,6 +33,8 @@ The game currently has three levels of increasing difficulty.
 The game includes a simple camera system that follows the player.
 Sound effects and background music are used to enhance the gameplay experience.
 The floor tiles have a subtle exposure effect applied to improve visual appeal.
+
+You can change music form background2 to background if it annoys you^^
 
 ## Credits
 Game Development: Insaniyat, Tamiris, Damir IT-2206
